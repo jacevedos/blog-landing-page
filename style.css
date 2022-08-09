@@ -363,7 +363,7 @@ body{
 
 .information-2{
     margin: 3rem 0;
-    height: 150vh;
+    height: 160vh;
     display: flex;
     flex-direction: column;
 }
@@ -385,7 +385,8 @@ body{
 }
 
 .blog h3{
-    font-size: 28px;
+    font-size: 2rem;
+    margin-bottom: 1rem;
     font-family: var(--font-overpass);
     color: var(--very-dark-blue-color);
 }
